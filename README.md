@@ -11,7 +11,7 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=umesha2001&label=Profile%20views&color=0e75b6&style=for-the-badge)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umesha-jayakody)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/umeshajayakody/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFJeLosmGTgmLBDQm2Ucm4A%3D%3Dhttps://www.linkedin.com/in/umeshajayakody/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BFJeLosmGTgmLBDQm2Ucm4A%3D%3D)
   
 </div>
 
